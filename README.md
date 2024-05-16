@@ -1,7 +1,7 @@
  <table>
   <tr>
     <td>
-      <a href="https://app.daily.dev/izantolpmoc"><img src="https://api.daily.dev/devcards/v2/8uOrx0zocFWs4KEsjRmgy.png?r=7fe&type=default" width="356" alt="Naomie's Dev Card"/></a>
+      <a href="https://app.daily.dev/izantolpmoc"><img src="./devcard.png" width="356" alt="Naomie's Dev Card"/></a>
      <hr>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izantolpmoc&layout=compact&theme=radical" alt="Top Langs"/>
       <h3>🌐 Connect with Me</h3>
