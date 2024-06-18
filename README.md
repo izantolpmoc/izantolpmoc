@@ -28,7 +28,7 @@
       <p>Anything, really I'd be happy to talk !</p>
       <h3> - ⚡ Fun facts: ...</h3>
       <p>* My major in high school was literature and foreign languages</p>
-      <p>* I've been using 9gag for more than 10 years, I can handle humor darker than my skin tone</p>
+      <p>* I have tried so many hobbies we probably have one in common</p>
   </tr>
  
 </table>
